@@ -1,6 +1,6 @@
 # Repo for task for learning
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is for learning basis only.
 
 ## To see the changes
 
